@@ -2,7 +2,7 @@
 This is based on my other project (https://github.com/sero583/MCBedrockQuery), but ported to Android as an App.
 # H2 Screenshots
 
-![Screenshot 1](https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_1.jpg&s=400)
+<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_1.jpg" width="500" height="500"/>
 ![Screenshot 2](https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_2.jpg)
 ![Screenshot 3](https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_3.jpg)
 # H3 Download
