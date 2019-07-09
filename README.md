@@ -3,6 +3,6 @@ This is based on my other project (https://github.com/sero583/MCBedrockQuery), b
 # Download
 You can download an APK [here](https://github.com/sero583/MCBedrockQuery-Android/blob/master/release/MCBedrockQuery.apk).
 # Screenshots
-<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_1.jpg" width="500" height="800"/>
-<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_2.jpg" width="500" height="800"/>
-<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_3.jpg" width="500" height="800"/>
+<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_1.jpg" width="420" height="800"/>
+<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_2.jpg" width="420" height="800"/>
+<img src="https://github.com/sero583/MCBedrockQuery-Android/blob/master/images/screenshot_3.jpg" width="420" height="800"/>
